@@ -4,7 +4,7 @@ ___
 
 <p align="center">
   
-    <img src='https://github.com/joaocarlopa/InterfaceNetflix/blob/main/introNet.png'>
+    <img src='./inicio.png'>
   
 </p>
 
