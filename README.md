@@ -4,7 +4,7 @@ ___
 
 <p align="center">
   
-    <img src='./inicio.png'>
+   <img src='./inicio.png'>
   
 </p>
 
@@ -18,7 +18,6 @@ ___
 </h3>
 
 ___
-
 
 ## :information_source: Sobre
 
