@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Shield
+comment1.params=x\ y\ s
+comment1.target=Shield(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+numComments=2

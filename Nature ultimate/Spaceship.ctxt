@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Spaceship
+comment1.params=x\ y\ s
+comment1.target=Spaceship(float,\ float,\ com.badlogic.gdx.scenes.scene2d.Stage)
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=void\ warp()
+comment4.params=dt
+comment4.target=void\ act(float)
+numComments=5
